@@ -10,6 +10,8 @@ public class Main {
       System.out.println("El perro se llama: " + perroUno.nombreP + "\nTipo de comida: " + perroUno.tipoComidaP + "\nPaseos al dia: " + perroUno.paseosP + "\nSu raza es: " + perroUno.razaP + "\n¿Esta vivo? " + perroUno.vivoP);
 
 
+
+
     }
 
 
